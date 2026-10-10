@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the HKUST NLP Group advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree (2020\u20132024).
+I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the HKUST NLP Group advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree (2020-2024).
 
 Research
 ======
@@ -21,8 +21,8 @@ My research focuses on natural language processing and machine learning, with pa
 Education
 ======
 
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 \u2013 Present)
-* **B.Eng.**, Shanghai Jiao Tong University (2020 \u2013 2024), graduated in June 2024
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 - Present)
+* **B.Eng.**, Shanghai Jiao Tong University (2020 - 2024), graduated in June 2024
 
 Awards
 ======
@@ -32,10 +32,10 @@ Awards
 Research Experience
 ======
 
-* **Research Intern**, MINIMAX (February 2025 \u2013 Present)
-* **Research Intern**, Tencent WXG (June 2024 \u2013 September 2024)
+* **Research Intern**, MINIMAX (February 2025 - Present)
+* **Research Intern**, Tencent WXG (June 2024 - September 2024)
   * Advisor: Zifei Shan
-* **Research Intern**, Shanghai AI Lab (June 2023 \u2013 December 2023)
+* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
 Skills
