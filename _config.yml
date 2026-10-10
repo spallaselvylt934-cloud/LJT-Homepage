@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spallaselvylt934-cloud.github.io/LJT-Homepage # The base hostname & protocol for your site
-type                     :
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "spallaselvylt934-cloud/LJT-Homepage"
 
